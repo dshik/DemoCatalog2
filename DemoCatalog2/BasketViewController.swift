@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  SecondViewController.swift
 //  DemoCatalog2
 //
 //  Created by Дмитрий Шикунов on 10.09.2020.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class BasketViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

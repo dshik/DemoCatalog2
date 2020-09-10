@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  FirstViewController.swift
 //  DemoCatalog2
 //
 //  Created by Дмитрий Шикунов on 10.09.2020.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class ProductsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
